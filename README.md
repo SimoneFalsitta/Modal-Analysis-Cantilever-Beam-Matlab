@@ -37,7 +37,7 @@ This repository contains the complete analytical, numerical, and experimental mo
 * **Francesca Gaudiano** 
 * **Gabriele Massa** 
 * **Alessandro Morini**
-* 
+
 **Politecnico di Milano 1863**  
 *School of Industrial and Information Engineering — M.Sc. in Mechanical Engineering* (A.Y. 2024–2025)  
 **Course**: *Advanced Dynamics of Mechanical Systems*
